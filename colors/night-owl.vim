@@ -18,7 +18,7 @@ hi Normal guifg=#d6deeb ctermfg=253 guibg=#011627 ctermbg=233 gui=NONE cterm=NON
 hi LineNr guifg=#4b6479 ctermfg=238 guibg=#011627 ctermbg=233 gui=NONE cterm=NONE
 hi CursorLine guifg=#0003 ctermfg=204 guibg=#011627 ctermbg=233 gui=NONE cterm=NONE
 hi CursorLineNr guifg=#C5E4FD gui=bold cterm=bold
-hi ColorColumn guibg=#4b6479 ctermbg=235 gui=NONE cterm=NONE
+hi ColorColumn guibg=#5f7e97 ctermbg=235 gui=NONE cterm=NONE
 hi DiffAdd guifg=#011627 ctermfg=233 guibg=#addb67 ctermbg=149 gui=NONE cterm=NONE
 hi DiffChange guifg=#011627 ctermfg=233 guibg=#7fdbca ctermbg=116 gui=NONE cterm=NONE
 hi DiffDelete guifg=#011627 ctermfg=233 guibg=#ff5874 ctermbg=204 gui=NONE cterm=NONE
@@ -26,7 +26,7 @@ hi DiffText guifg=#011627 ctermfg=233 guibg=#7fdbca ctermbg=116 gui=NONE cterm=N
 hi VertSplit guifg=#777777 ctermfg=243 gui=NONE cterm=NONE
 hi Folded guifg=#777777 ctermfg=243 guibg=#011627 ctermbg=233 gui=NONE cterm=NONE
 hi IncSearch guifg=#eeeeee ctermfg=255 guibg=#ecc48d ctermbg=222 gui=NONE cterm=NONE
-hi MatchParen guifg=#011627 ctermfg=233 guibg=#FFCA28 ctermbg=248 gui=NONE cterm=NONE
+hi MatchParen guifg=#011627 ctermfg=233 guibg=#5f7e97 ctermbg=248 gui=NONE cterm=NONE
 hi NonText guifg=#82aaff ctermfg=111 gui=NONE cterm=NONE
 hi PMenu guibg=#2d2c5d ctermbg=236 gui=NONE cterm=NONE
 hi PMenuSel guibg=#c792ea ctermbg=176 gui=NONE cterm=NONE

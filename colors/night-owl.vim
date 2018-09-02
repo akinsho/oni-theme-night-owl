@@ -17,6 +17,7 @@ let g:colors_name="night-owl"
 hi Normal guifg=#d6deeb ctermfg=253 guibg=#011627 ctermbg=233 gui=NONE cterm=NONE
 hi LineNr guifg=#4b6479 ctermfg=238 guibg=#011627 ctermbg=233 gui=NONE cterm=NONE
 hi CursorLine guifg=#0003 ctermfg=204 guibg=#011627 ctermbg=233 gui=NONE cterm=NONE
+hi CursorLineNr guifg=#C5E4FD gui=bold cterm=bold
 hi ColorColumn guibg=#4b6479 ctermbg=235 gui=NONE cterm=NONE
 hi DiffAdd guifg=#011627 ctermfg=233 guibg=#addb67 ctermbg=149 gui=NONE cterm=NONE
 hi DiffChange guifg=#011627 ctermfg=233 guibg=#7fdbca ctermbg=116 gui=NONE cterm=NONE

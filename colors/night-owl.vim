@@ -26,7 +26,7 @@ hi DiffText guifg=#011627 ctermfg=233 guibg=#7fdbca ctermbg=116 gui=NONE cterm=N
 hi VertSplit guifg=#777777 ctermfg=243 gui=NONE cterm=NONE
 hi Folded guifg=#777777 ctermfg=243 guibg=#011627 ctermbg=233 gui=NONE cterm=NONE
 hi IncSearch guifg=#eeeeee ctermfg=255 guibg=#ecc48d ctermbg=222 gui=NONE cterm=NONE
-hi MatchParen guifg=#011627 ctermfg=233 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi MatchParen guifg=#011627 ctermfg=233 guibg=#FFCA28 ctermbg=248 gui=NONE cterm=NONE
 hi NonText guifg=#82aaff ctermfg=111 gui=NONE cterm=NONE
 hi PMenu guibg=#2d2c5d ctermbg=236 gui=NONE cterm=NONE
 hi PMenuSel guibg=#c792ea ctermbg=176 gui=NONE cterm=NONE

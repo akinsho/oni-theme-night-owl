@@ -14,8 +14,8 @@
 
         "tabs.background": "#010e1a",
         "tabs.foreground": "#5f7e97",
-        "tabs.activeBackground": "#0b2942",
-        "tabs.activeforeground": "#d2dee7",
+        "tabs.active.background": "#0b2942",
+        "tabs.active.foreground": "#d2dee7",
 
         "toolTip.background": "#011627",
         "toolTip.foreground": "#c5c8c6",

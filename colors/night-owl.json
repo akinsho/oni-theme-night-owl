@@ -17,6 +17,10 @@
         "tabs.active.background": "#0b2942",
         "tabs.active.foreground": "#d2dee7",
 
+        "scrollbar.track": "#010b14",
+        "scrollbar.thumb": "#084d81",
+        "scrollbar.thumb.hover": "#084d81",
+
         "toolTip.background": "#011627",
         "toolTip.foreground": "#c5c8c6",
         "toolTip.border": "#5f7e97",

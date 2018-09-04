@@ -15,10 +15,13 @@ endif
 let g:colors_name="night-owl"
 
 hi Normal guifg=#d6deeb ctermfg=253 guibg=#011627 ctermbg=233 gui=NONE cterm=NONE
+" LineNr ctermfg values need tweaking
 hi LineNr guifg=#4b6479 ctermfg=238 guibg=#011627 ctermbg=233 gui=NONE cterm=NONE
+" CursorLine ctermfg values need tweaking
 hi CursorLine guifg=#0003 ctermfg=204 guibg=#011627 ctermbg=233 gui=NONE cterm=NONE
 hi CursorLineNr guifg=#C5E4FD gui=bold cterm=bold
-hi ColorColumn guibg=#5f7e97 ctermbg=235 gui=NONE cterm=NONE
+" ColorColumn ctermfg values need tweaking
+hi ColorColumn guibg=#263642 ctermbg=235 gui=NONE cterm=NONE
 hi DiffAdd guifg=#011627 ctermfg=233 guibg=#addb67 ctermbg=149 gui=NONE cterm=NONE
 hi DiffChange guifg=#011627 ctermfg=233 guibg=#7fdbca ctermbg=116 gui=NONE cterm=NONE
 hi DiffDelete guifg=#011627 ctermfg=233 guibg=#ff5874 ctermbg=204 gui=NONE cterm=NONE
@@ -33,7 +36,8 @@ hi PMenuSel guibg=#c792ea ctermbg=176 gui=NONE cterm=NONE
 hi Search guifg=#011627 ctermfg=233 guibg=#ecc48d ctermbg=222 gui=NONE cterm=NONE
 hi SpecialKey guifg=#444444 ctermfg=238 gui=NONE cterm=NONE
 hi Visual guifg=#d6deeb ctermfg=253 guibg=#2d2c5d ctermbg=236 gui=NONE cterm=NONE
-hi EndOfBuffer guifg=#444444 ctermfg=238 guibg=#011627 ctermbg=233 gui=NONE cterm=NONE
+" EndOfBuffer ctermfg values need tweaking
+hi EndOfBuffer guifg=#263642 ctermfg=238 guibg=#011627 ctermbg=233 gui=NONE cterm=NONE 
 hi Comment guifg=#637777 ctermfg=243 guibg=#011627 ctermbg=233 gui=italic cterm=italic
 hi Constant guifg=#addb67 ctermfg=149 guibg=#011627 ctermbg=233 gui=NONE cterm=NONE
 hi String guifg=#ecc48d ctermfg=222 guibg=#011627 ctermbg=233 gui=NONE cterm=NONE

@@ -14,6 +14,7 @@
 
         "tabs.background": "#010e1a",
         "tabs.foreground": "#5f7e97",
+        "tabs.borderBottom": "transparent",
         "tabs.active.background": "#0b2942",
         "tabs.active.foreground": "#d2dee7",
 
